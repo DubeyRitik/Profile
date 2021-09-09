@@ -1,0 +1,104 @@
+body {
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+  }
+
+.bt1{
+   width: 10%;
+   position: absolute; 
+   left: 85%;
+   top: 10px;
+}
+
+.bt2{
+    width: 10%;
+    position: absolute; 
+left: 14%;
+
+ }
+ 
+ h1{
+     margin: 100px auto 0 auto;
+     color: #66BFBF;
+  font-size: 5.625rem;
+ 
+  font-family: 'Sacramento', cursive;
+ }
+
+ h2{
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+ }
+
+ .intro{
+     width: 30%;
+     margin: auto;
+ }
+
+ .rd{
+     width: 15%;
+     border-radius: 100%;
+ }
+
+ hr{
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+ }
+
+ h3{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+ }
+
+ .prog{
+    width: 25%;
+    float: left;
+    
+    padding-right: 15px;
+ }
+
+
+ .chef{
+    width: 25%;
+    float: right;
+    margin-right: 45px;
+    padding-left: 0px;
+ }
+
+ .top-div {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 50px;
+  }
+  
+  .middle-div {
+    margin: 100px 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .bottom-div {
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+  }
+
+  .skill-row {
+    width: 40%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+  }
+  
+  p {
+    line-height: 2;
+  }
+
+  .left{
+      text-align: left;
+      
+    }
